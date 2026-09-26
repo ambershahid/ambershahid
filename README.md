@@ -58,24 +58,40 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
 
 
 
-### ✨ My Expertise
+## 💼 My Expertise
 
-#### 🤖 AI & Automation
-![n8n](https://img.shields.io/badge/n8n-2B4C3F?style=for-the-badge&logo=n8n&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-2B4C3F?style=for-the-badge)
-![RAG Chatbots](https://img.shields.io/badge/RAG_Chatbots-2B4C3F?style=for-the-badge)
-![Lovable AI](https://img.shields.io/badge/Lovable_AI-2B4C3F?style=for-the-badge)
+### 🤖 AI & Automation
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,tensorflow" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-#### ⚡ Workflow Automation
-![n8n](https://img.shields.io/badge/n8n-5A9A8A?style=for-the-badge&logo=n8n&logoColor=white)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-5A9A8A?style=for-the-badge)
-![Automation Expert](https://img.shields.io/badge/Automation-5A9A8A?style=for-the-badge)
+### ⚡ Workflow Automation
+<p align="center">
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoHighLevel-00B5E2?style=for-the-badge&logo=gohighlevel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRM-2B4C3F?style=for-the-badge&logo=hubspot&logoColor=white" />
+</p>
 
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-2B4C3F?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-2B4C3F?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2B4C3F?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 💻 Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,dart,html" />
+  </a>
+</p>
 
+### 🗄️ Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  </a>
+</p>
 ### ⚡ My Build Log
 
 <p align="center">
@@ -90,11 +106,4 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
 
 > *"I don't just build AI that talks — I build automation that works. Less manual clicks, more smart workflows."*
 
-### 🐍 My Code Journey
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ambershahid/ambershahid/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ambershahid/ambershahid/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ambershahid/ambershahid/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+
