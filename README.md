@@ -56,9 +56,7 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
 <a href="mailto:shahidamber391@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Amber+Shahid+%F0%9F%91%8B;My+Expertise;AI+automation+specialist;N8n+Expert;Workflow+automation;AI+agents;RAG+Chatbots;Loveable+AI&color=2B4C3F" alt="Typing SVG" /></a>
-</p>
+
 
 ### ✨ My Expertise
 
@@ -84,11 +82,7 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
   <img src="https://streak-stats.demolab.com?user=ambershahid&theme=transparent&hide_border=true&border_radius=10&ring=2B4C3F&fire=2B4C3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5A9A8A&sideLabels=AAAAAA&dates=888888&background=0D1117" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ambershahid">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambershahid&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=2B4C3F&point=5A9A8A&area=true&hide_border=true" width="100%" alt="Amber Shahid's GitHub Activity Graph" />
-  </a>
-</p>
+
 
 ---
 
