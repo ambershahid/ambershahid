@@ -58,25 +58,21 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
 
 
 
-## 💼 My Expertise
-
 ### 🤖 AI & Automation
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,tensorflow" />
-  </a>
-  &nbsp;
   <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_Agents-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-2B4C3F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT_Agents-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+ 
 </p>
 
 ### ⚡ Workflow Automation
 <p align="center">
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoHighLevel-00B5E2?style=for-the-badge&logo=gohighlevel&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRM-2B4C3F?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n_Expert-FF4F4F?style=for-the-badge&logo=n8n&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/CRM_Automation-2B4C3F?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents_Workflow-000000?style=for-the-badge&logo=zapier&logoColor=white" />
 </p>
 
 ### 💻 Programming Languages
@@ -89,7 +85,7 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
 ### 🗄️ Databases
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
   </a>
 </p>
 ### ⚡ My Build Log
