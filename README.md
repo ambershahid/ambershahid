@@ -67,8 +67,8 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
         <b>n8n</b>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/openai/white" width="50" height="50"/><br>
-        <b>AI Agents</b>
+        <img src="https://img.icons8.com/fluency/96/visible--v1.png" width="50" height="50"/><br>
+        <b>Prompt Engineering</b>
       </td>
       <td align="center" width="120">
         <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="50" height="50"/><br>
@@ -87,12 +87,12 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
         <b>n8n Expert</b>
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/hubspot/FF7A59" width="50" height="50"/><br>
-        <b>CRM Automation</b>
+        <img src="https://img.icons8.com/fluency/96/automatic.png" width="50" height="50"/><br>
+        <b>AI Agent Workflows</b>
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="50" height="50"/><br>
-        <b>AI Agent Workflows</b>
+        <img src="https://cdn.simpleicons.org/hubspot/FF7A59" width="50" height="50"/><br>
+        <b>CRM Automation</b>
       </td>
     </tr>
   </table>
@@ -106,7 +106,7 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="50"/><br><b>C</b></td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br><b>C++</b></td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="50"/><br><b>Dart</b></td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="50"/><br><b>HTML5</b></td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="50"/><br><b>HTML</b></td>
     </tr>
   </table>
 </p>
