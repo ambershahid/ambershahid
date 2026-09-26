@@ -116,8 +116,7 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
   <table>
     <tr>
       <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><b>MySQL</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br><b>MongoDB</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br><b>Firebase</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br><b>PostgreSQL</b></td>
     </tr>
   </table>
 </p>
