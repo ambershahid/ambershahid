@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="./banner.png" width="100%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=650&lines=AI+automation+specialist;N8n;Workflow+automation;AI+agents;RAG+Chatbots;Loveable+AI&color=2B4C3F" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=650&lines=AI+automation+specialist;N8n;Workflow+automation;AI+agents;RAG+Chatbots;Loveable+AI&color=2B4C3F" alt="Typing SVG" /></a>
+  <img src="./banner.png" width="100%" />
 </p>
+
+
 
 <h1 align="center">Hi 👋, I'm Amber Shahid</h1>
 <h3 align="center">AI Automation Engineer from Bahawalpur, Pakistan</h3>
@@ -15,8 +17,7 @@
 
 **🎓 BS Artificial Intelligence Student at The Islamia University of Bahawalpur**
 
-I am an AI Automation Engineer who has worked across multiple platforms and built several real-world projects.
-
+I am an AI Automation Engineer.I have built workflow automations on n8n that automate daily business operations
 **🔧 What I have worked on:**
 - **AI Automation & n8n** - I have built complex workflow automations on n8n
 - **Websites & Lovable AI** - I have built modern websites using Lovable AI
@@ -47,19 +48,10 @@ I am an AI Automation Engineer who has worked across multiple platforms and buil
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambershahid&show_icons=true&theme=transparent&hide_border=true&title_color=2B4C3F&icon_color=5A9A8A" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/ambershahid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ambershahid@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ambershahidai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shahidamber391@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
