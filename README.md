@@ -1,7 +1,9 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=750&lines=AI+AUTOMATION+SPECIALIST;N8N+EXPERT;WORKFLOW+AUTOMATION;AI+AGENTS;RAG+CHATBOTS;LOVABLE+AI&color=0A1931" alt="Typing SVG" /></a>
 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=750&lines=AI+AUTOMATION+SPECIALIST;N8N+EXPERT;WORKFLOW+AUTOMATION;AI+AGENTS;RAG+CHATBOTS;LOVABLE+AI&color=E8C4A0" alt="Typing SVG" /></a>
+</p>
+ 
 </p>
 
 <p align="center">
