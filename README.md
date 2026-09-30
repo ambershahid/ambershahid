@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./banner1.png" width="100%" />
 </p>
 
 
@@ -28,11 +28,12 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
 **🎯 My Goal:** Less Manual Work, More Smart Automation - Where Intelligent Workflows Come to Life.
 
 <p align="center">
-  <img src="./coffee-loop.png" width="75%" alt="coffee loop" />
+  <img src="./coffee-loop1.png" width="75%" alt="coffee loop" />
 </p>
 <p align="center">
   <em>spill -> fix -> loop • repeat - My daily debugging life ☕</em>
 </p>
+
 
 ---
 
