@@ -41,9 +41,9 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
 
 ---
 
-### 🛠️ My Tech Stack
+<h3 align="center">🛠️ My Tech Stack</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Agents-2B4C3F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" />
@@ -53,19 +53,16 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<h3 align="center">📫 Connect With Me</h3>
 
-### 📫 Connect With Me
-
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/ambershahidai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shahidamber391@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-
-
-### 🤖 AI & Automation
+<h3 align="center">🤖 AI & Automation</h3>
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="120">
         <img src="https://cdn.simpleicons.org/n8n/white" width="50" height="50"/><br>
@@ -83,9 +80,9 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
   </table>
 </p>
 
-### ⚡ Workflow Automation
+<h3 align="center">⚡ Workflow Automation</h3>
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="140">
         <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50"/><br>
@@ -103,9 +100,9 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
   </table>
 </p>
 
-### 💻 Programming Languages
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="50"/><br><b>Python</b></td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="50"/><br><b>C</b></td>
@@ -116,9 +113,9 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
   </table>
 </p>
 
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><b>MySQL</b></td>
       <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br><b>PostgreSQL</b></td>
@@ -126,18 +123,16 @@ I am an AI Automation Engineer.I have built workflow automations on n8n that aut
   </table>
 </p>
 
-### ⚡ My Build Log
+<h3 align="center">⚡ My Build Log</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ambershahid&theme=transparent&hide_border=true&border_radius=10&ring=2B4C3F&fire=2B4C3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5A9A8A&sideLabels=AAAAAA&dates=888888&background=0D1117" alt="GitHub Streak" />
 </p>
 
-
-
 ---
 
-### 🤖 My Automation Philosophy
+<h3 align="center">🤖 My Automation Philosophy</h3>
 
-> *"I don't just build AI that talks — I build automation that works. Less manual clicks, more smart workflows."*
-
-
+<p align="center">
+  <em>"I don't just build AI that talks — I build automation that works. Less manual clicks, more smart workflows."</em>
+</p>
